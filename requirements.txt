@@ -4,4 +4,4 @@ numpy
 scikit-learn
 mlxtend
 plotly
-Analytics
+
